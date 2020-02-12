@@ -1,0 +1,15 @@
+body
+{
+    background-color: black;
+    direction: rtl;
+}
+.container
+{
+    border: 1px solid red;
+    background-color: black;
+}
+
+.nav-link
+{
+    
+}

@@ -1,0 +1,48 @@
+body
+{
+    direction: rtl;
+}
+.bg-light 
+{
+    background-color: white!important;
+}
+.main
+{
+    background-color: #784589;
+    /*height: 1000px;*/
+        
+}
+.main2
+{
+    background-image: url("../images/img4.png");
+    background-repeat: no-repeat;
+    background-color: #784589;
+    height: 145px;
+    background-size: cover;
+
+}
+.card1
+{
+    margin: 0 auto;
+    background-color: #784589;
+    color: white;
+    border: none;
+}
+.img1
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .vis {
+      display: none;
+    }
+  }
+  @media only screen and (max-width: 992px) {
+    .hid {
+      display: none;
+    }
+  }
